@@ -1,6 +1,11 @@
 # Travel-Book
-The User can store the location where he visits and see it whenever he wants and Can open that location in Apple's Map Application
-You can create new location, update the current saved location and delete operation is also enabled
+Efficiently managing and tracking visited locations is facilitated through the Travel Book app. Users can store, update, and delete saved locations, accessing them at their convenience. The app seamlessly integrates with Apple's Map Application for easy navigation.
+
+Key features include:
+
+Creation of new locations
+Updating existing saved locations
+Deletion of unwanted entries
 
 ![IMG_3372](https://github.com/Sagar5426/Travel-Book/assets/108585817/4f175496-208b-43c5-8923-bf29a90edb81)
 
