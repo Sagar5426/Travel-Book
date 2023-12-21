@@ -3,9 +3,9 @@ Efficiently managing and tracking visited locations is facilitated through the T
 
 Key features include:
 
-Creation of new locations
-Updating existing saved locations
-Deletion of unwanted entries
+- Creation of new locations
+- Updating existing saved locations
+- Deletion of unwanted entries
 
 ![IMG_3372](https://github.com/Sagar5426/Travel-Book/assets/108585817/4f175496-208b-43c5-8923-bf29a90edb81)
 
