@@ -7,12 +7,10 @@ Key features include:
 - Updating existing saved locations
 - Deletion of unwanted entries
 
-![IMG_3372](https://github.com/Sagar5426/Travel-Book/assets/108585817/4f175496-208b-43c5-8923-bf29a90edb81)
 
-![IMG_3373](https://github.com/Sagar5426/Travel-Book/assets/108585817/a05a4360-34c0-435a-b48f-924f7fc8f1d3)
-
-![IMG_3375](https://github.com/Sagar5426/Travel-Book/assets/108585817/77aae9dd-7a59-4640-a6c0-b82da06bb9fa)
-
-
-
+<img width="200" alt="Screenshot 2024-05-09 at 3 13 21 PM" src="https://github.com/Sagar5426/Travel-Book/assets/108585817/94b17a4c-9678-4add-8a52-53c192228226">
+<img width="200" alt="Screenshot 2024-05-09 at 3 10 02 PM" src="https://github.com/Sagar5426/Travel-Book/assets/108585817/42866c67-f92c-477b-999f-1c06ca430536">
+<img width="200" alt="Screenshot 2024-05-09 at 3 14 41 PM" src="https://github.com/Sagar5426/Travel-Book/assets/108585817/3b09b95c-7ea8-4fda-be51-a68ff66c6a9c">
+<img width="200" alt="Screenshot 2024-05-09 at 3 15 49 PM" src="https://github.com/Sagar5426/Travel-Book/assets/108585817/572d9343-2b38-446c-8a0b-a84ff784d37c">
+<hr><br>
 Library Used: CoreLocation, MapKit, UIKit and CoreData
